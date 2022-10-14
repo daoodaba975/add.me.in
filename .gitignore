@@ -16,4 +16,6 @@ yarn-error.log*
 # macOS-specific files
 .DS_Store
 
+.vscode
 package-lock.json
+tsconfig.json
