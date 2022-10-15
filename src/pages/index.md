@@ -15,4 +15,6 @@ Galsen DEV => *[Made In Senegal](https://github.com/GalsenDev221/made.in.senegal
 
 Daouda BA => *[Taaru](https://github.com/daoodaba975/taaru)*
 
+Birame Ndoye => *[News SN scraper](https://github.com/biramendoye/news-sn-scraper)*
+
 SP SIMS   => *[add.me.in](https://github.com/KariSims/add.me.in)*
