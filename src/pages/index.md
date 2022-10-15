@@ -13,6 +13,12 @@ Ajouté votre nom et un projet GitHub.
 
 Galsen DEV => *[Made In Senegal](https://github.com/GalsenDev221/made.in.senegal)*
 
+Daouda BA => *[Taaru](https://github.com/daoodaba975/taaru)*
+
+Birame Ndoye => *[News SN scraper](https://github.com/biramendoye/news-sn-scraper)*
+
+SP SIMS   => *[add.me.in](https://github.com/KariSims/add.me.in)*
+
 Asse Badiane => *[Made In Senegal](https://github.com/Bonde98/Maodo-Malick_pd_p2.git)*
 
 Asse Badiane => *[Made In Senegal](https://github.com/Bonde98/Ecommerce-suite_pd_10.git)*
