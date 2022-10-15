@@ -18,3 +18,5 @@ Daouda BA => *[Taaru](https://github.com/daoodaba975/taaru)*
 Birame Ndoye => *[News SN scraper](https://github.com/biramendoye/news-sn-scraper)*
 
 SP SIMS   => *[add.me.in](https://github.com/KariSims/add.me.in)*
+
+Cheikh Ahmed Tidiane Fall   => *[Meteo](https://github.com/cheikh221sn/meteo)*
