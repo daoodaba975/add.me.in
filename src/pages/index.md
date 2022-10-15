@@ -15,4 +15,4 @@ Galsen DEV => *[Made In Senegal](https://github.com/GalsenDev221/made.in.senegal
 
 Daouda BA => *[Taaru](https://github.com/daoodaba975/taaru)*
 
-Daouda BA => *[Eleveur](https://github.com/Diadia-Coder/ProjetEleveur.git)*
+Diadia Diouf => *[Eleveur](https://github.com/Diadia-Coder/ProjetEleveur.git)*
