@@ -25,7 +25,7 @@ Asse Badiane => *[Portfolio](https://github.com/Bonde98/Maodo-Malick_pd_p2.git)*
 
 Ndeye Siga Pouille => *[API Rest](https://github.com/seegah/API_REST)*
 
-Meuz Ndoye =>[courses](https://github.com/Dammel-Meuz/AndroidCourseApp)
+Meuz Ndoye => *[cCurses](https://github.com/Dammel-Meuz/AndroidCourseApp)* *[React Router V6](https://github.com/Dammel-Meuz/React-Router-V6)*
 
 Diadia Diouf => *[Eleveur](https://github.com/Diadia-Coder/ProjetEleveur.git)*
 
