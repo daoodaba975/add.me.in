@@ -36,3 +36,5 @@ Papa Matar DIOP => *[Expens Manager](https://github.com/zlorgoncho1/Expense-mana
 Mouhamed DIOP => *[Django Repertoire](https://github.com/Devdiop221/django-repertoire)*
 
 Ndeye Amie Thiam => *[Config Laravel Repertoire](https://github.com/NdeyeAmie/config-laravel)*
+
+Lucien Loua (XYHOMi3) => *[Firebase Phone Auth](https://github.com/xyhomi3/xy-phone-auth)*
