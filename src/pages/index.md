@@ -37,5 +37,5 @@ Mouhamed DIOP => *[Django Repertoire](https://github.com/Devdiop221/django-reper
 
 Ndeye Amie Thiam => *[Config Laravel Repertoire](https://github.com/NdeyeAmie/config-laravel)*
 
-Pape Mactar => *[gestion d'une école avec nestjs](https://github.com/ratman50/peda-with-nest)*
+Pape Mactar NDIAYE => *[gestion d'une école avec nestjs](https://github.com/ratman50/peda-with-nest)*
 
