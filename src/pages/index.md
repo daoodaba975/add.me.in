@@ -11,30 +11,30 @@ Ajouté votre nom et un projet GitHub.
 
 ### Participants
 
-Galsen DEV => _[Made In Senegal](https://github.com/GalsenDev221/made.in.senegal)_
+Galsen DEV => *[Made In Senegal](https://github.com/GalsenDev221/made.in.senegal)*
 
-Daouda BA => _[Taaru](https://github.com/daoodaba975/taaru)_
+Daouda BA => *[Taaru](https://github.com/daoodaba975/taaru)*
 
-Birame Ndoye => _[News SN scraper](https://github.com/biramendoye/news-sn-scraper)_
+Birame Ndoye => *[News SN scraper](https://github.com/biramendoye/news-sn-scraper)*
 
-SP SIMS => _[Add me in](https://github.com/KariSims/add.me.in)_
+SP SIMS => *[Add me in](https://github.com/KariSims/add.me.in)*
 
-Cheikh Ahmed Tidiane Fall => _[Meteo](https://github.com/cheikh221sn/meteo)_
+Cheikh Ahmed Tidiane Fall => *[Meteo](https://github.com/cheikh221sn/meteo)*
 
-Asse Badiane => _[Portfolio](https://github.com/Bonde98/Maodo-Malick_pd_p2.git)_ _[Ecommerce suite](https://github.com/Bonde98/Ecommerce-suite_pd_10.git)_
+Asse Badiane => *[Portfolio](https://github.com/Bonde98/Maodo-Malick_pd_p2.git)* *[Ecommerce suite](https://github.com/Bonde98/Ecommerce-suite_pd_10.git)*
 
-Ndeye Siga Pouille => _[API Rest](https://github.com/seegah/API_REST)_
+Ndeye Siga Pouille => *[API Rest](https://github.com/seegah/API_REST)*
 
-Meuz Ndoye => _[cCurses](https://github.com/Dammel-Meuz/AndroidCourseApp)_ _[React Router V6](https://github.com/Dammel-Meuz/React-Router-V6)_
+Meuz Ndoye => *[cCurses](https://github.com/Dammel-Meuz/AndroidCourseApp)* *[React Router V6](https://github.com/Dammel-Meuz/React-Router-V6)*
 
-Diadia Diouf => _[Eleveur](https://github.com/Diadia-Coder/ProjetEleveur.git)_
+Diadia Diouf => *[Eleveur](https://github.com/Diadia-Coder/ProjetEleveur.git)*
 
-Al Seny DIALLO => _[Grid tutorial](https://github.com/alseny-diallo/testimonials-grid-section)_
+Al Seny DIALLO => *[Grid tutorial](https://github.com/alseny-diallo/testimonials-grid-section)*
 
-Papa Matar DIOP => _[Expens Manager](https://github.com/zlorgoncho1/Expense-manager)_
+Papa Matar DIOP => *[Expens Manager](https://github.com/zlorgoncho1/Expense-manager)*
 
-Mouhamed DIOP => _[Django Repertoire](https://github.com/Devdiop221/django-repertoire)_
+Mouhamed DIOP => *[Django Repertoire](https://github.com/Devdiop221/django-repertoire)*
 
-Ndeye Amie Thiam => _[Config Laravel Repertoire](https://github.com/NdeyeAmie/config-laravel)_
+Ndeye Amie Thiam => *[Config Laravel Repertoire](https://github.com/NdeyeAmie/config-laravel)*
 
-Mouhamed El Malick Hanne => _[NetflixCollection](https://github.com/mouhamedhanne/Netflix_collection)_
+Mouhamed El Malick Hanne => *[NetflixCollection](https://github.com/mouhamedhanne/Netflix_collection)*
