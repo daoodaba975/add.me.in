@@ -40,3 +40,5 @@ Ndeye Amie Thiam => *[Config Laravel Repertoire](https://github.com/NdeyeAmie/co
 Mouhamed El Malick Hanne => *[NetflixCollection](https://github.com/mouhamedhanne/Netflix_collection)*
 
 Pape Mactar NDIAYE => *[Gestion Ecole NestJS](https://github.com/ratman50/peda-with-nest)*
+
+Lucien Loua (XYHOMi3) => *[Firebase Phone Auth](https://github.com/xyhomi3/xy-phone-auth)*
