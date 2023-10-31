@@ -37,4 +37,4 @@ Mouhamed DIOP => *[Django Repertoire](https://github.com/Devdiop221/django-reper
 
 Ndeye Amie Thiam => *[Config Laravel Repertoire](https://github.com/NdeyeAmie/config-laravel)*
 
-Salem Malick Mohamed => *[Equipe DEV](https://github.com/l-equipe-dev)*
+Salem Malick Mohamed => *[Classmates_HELP](https://github.com/saloum45/classmates_HELP)*
