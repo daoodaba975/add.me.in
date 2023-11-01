@@ -1,0 +1,20 @@
+---
+import participants from "../data/add-me-in.json";
+---
+
+<astro>
+  <div class="container">
+    {
+      participants.map((participants) => (
+        <div class="card">
+          <h2>{participants.nomDuProjet}</h2>
+          <p>
+            <b>Auteur</b>
+            {participants.nom}
+          </p>
+          <button><a href={participants.lienDuRepo} target="_blank">Voir le projet</a></button>
+        </div>
+      ))
+    }
+  </div>
+</astro>

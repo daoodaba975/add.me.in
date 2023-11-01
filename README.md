@@ -6,7 +6,7 @@ A simple project to help newbie to contribute to Hacktoberfest 2022.
 
 First [fork](https://github.com/daoodaba975/add.me.in/fork) this project.
 
-Next open => **src/pages/index.md**
+Next open => **src/data/add-me-in.json**
 
 Then go to last line copy/past it and add your Name & project you would share.
 

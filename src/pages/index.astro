@@ -1,0 +1,26 @@
+---
+let title = "Add me in 🔥";
+import "../scss/index.scss"
+import UserList from "../components/display.astro";
+---
+
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>{title}</title>
+    <link rel="icon" type="image/x-icon" href="/favicon.png" />
+    <meta name="theme-color" content="#121619" />
+  </head>
+  <body>
+    <main>
+      <header>
+        <h1>Add me <span class="in">in</span></h1>
+        <p>Ajouté votre nom et un projet GitHub.</p>
+      </header>
+      <section>
+        <UserList />
+      </section>
+    </main>
+  </body>
+</html>
