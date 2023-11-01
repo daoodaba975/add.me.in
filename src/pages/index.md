@@ -46,5 +46,3 @@ Pape Mactar NDIAYE => *[Gestion Ecole NestJS](https://github.com/ratman50/peda-w
 Lucien Loua (XYHOMi3) => *[Firebase Phone Auth](https://github.com/xyhomi3/xy-phone-auth)*
 
 Ramata KA => *[ToDoList](https://github.com/kumbissk/TodoAppJs)*
-
-

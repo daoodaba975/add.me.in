@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@400;700&display=swap");
+
+$blanc: #f1f0ea;
+$noir: #25291c;
+$vert: #d4f2d2;
+$beige: #e0ddcf;
+$jaune: #ecc500;
+$bleu: #3087f2;
+$noir-30:rgba(37,41,28 ,0.3);
+$jaune-30:rgb(236,197,0, 0.3);
+$blanc-30:rgb(241,240,234, 0.3);
+
+:root {
+  font-family: 'Source Code Pro', monospace;
+  font-weight: 400;
+  color-scheme: light dark;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+  color: $noir;
+  background: linear-gradient(50deg,$beige, $blanc);
+  background-size: 400% 400%;
+  animation: GradientBackground 25s ease infinite;
+}
+
+header{
+  .in{
+    color: $bleu;
+  }
+}
+
+body {
+  display: grid;
+  text-align: center;
+  place-content: center;
+  height: 100%;
+  grid-template-columns: 1fr;
+}
+
+@keyframes GradientBackground {
+  0% {
+    background-position: 0% 50%;
+  }
+
+  50% {
+    background-position: 100% 50%;
+  }
+
+  100% {
+    background-position: 0% 50%;
+  }
+};
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    color: $beige;
+    background: linear-gradient(50deg, $bleu, $noir);
+    background-size: 400% 400%;
+  }
+
+  header{
+    .in{
+      color: $jaune
+    }
+  }
+}
+
+
+
