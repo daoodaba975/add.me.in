@@ -3,7 +3,7 @@ title: Add me in
 slug: add-me-in
 date: 2022-10-13 20:00:30
 draft: false
-layout: ../layouts/Layout.astro
+# layout: ../layouts/Layout.astro
 description: false
 ---
 
